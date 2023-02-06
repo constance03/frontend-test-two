@@ -1,6 +1,6 @@
 # **Project API - Rick and Morty**
 
-The API - Rick and Morty is a website with information about the Adult Swim show "Rick and Morty", that contains 4 pages: Home, Detalhes, Locations and Episodes. The project has, as a source of data, the [Rick and Morty API](https://rickandmortyapi.com/ "Rick and Morty API").
+The API - Rick and Morty is a website with information about the Adult Swim show "Rick and Morty", that contains 4 pages: Home, Details, Locations and Episodes. The project has, as a source of data, the [Rick and Morty API](https://rickandmortyapi.com/ "Rick and Morty API").
 
 ## **Index**
 - <a href="#project-functionalities">Project functionalities</a>
